@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1"/>
+	<classpathentry kind="lib" path="D:/TH/java/lib/beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="D:/TH/java/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/TH/java/lib/fastjson-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/TH/java/lib/IKAnalyzer2012_u6.jar"/>
+	<classpathentry kind="lib" path="D:/TH/java/lib/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/TH/java/lib/itext-2.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/TH/java/lib/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/TH/java/lib/jython-standalone-2.7-b3.jar"/>
+	<classpathentry kind="lib" path="D:/TH/java/lib/lucene-core-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/TH/java/lib/opencsv-3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_20"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
